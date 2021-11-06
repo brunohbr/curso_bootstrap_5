@@ -1,0 +1,10 @@
+.par{
+  background-color: cornflowerblue;
+}
+.impar{
+  background-color: chocolate;
+}
+
+.col-3{
+  border: 2px black solid;
+}
