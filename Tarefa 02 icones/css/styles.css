@@ -1,0 +1,25 @@
+.container{
+  background-color: azure;
+  border: 2px black solid;
+  border-radius: 5px;
+}
+
+.bi-facebook{
+  
+  color: blue;
+  font-size: 25px;
+}
+
+.bi-instagram{
+  color: rgb(194, 99, 115);
+  font-size: 25px;
+}
+
+.bi-discord{
+  color: rgb(110, 110, 233);
+  font-size: 25px;
+}
+
+p{
+  display: inline;
+}
